@@ -5,11 +5,22 @@
     android:layout_height="match_parent"
     tools:context=".FragmentListLinearLayout">
 
-    <!-- TODO: Update blank fragment layout -->
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerviewlinear"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scrollbars="vertical"/>
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/tb_linear"
+            layout="@layout/toolbar_linear"/>
+
+        <!-- TODO: Update blank fragment layout -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerviewlinear"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tb_linear"
+            android:scrollbars="vertical"/>
+    </RelativeLayout>
+
 
 </FrameLayout>

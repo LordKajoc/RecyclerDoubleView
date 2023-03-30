@@ -1,4 +1,3 @@
 package com.lordkajoc.recyclerview
 
-data class KumpulanAbjad (val abjad:String) {
-}
+data class KumpulanAbjad (val abjad:String)

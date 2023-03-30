@@ -12,10 +12,61 @@
         <item>H</item>
         <item>I</item>
         <item>J</item>
-        <item>K</item>
+    </string-array>
 
+    <string-array name="Huruf">
+        <item>Aka</item>
+        <item>Aki</item>
+        <item>Aku</item>
+        <item>Ake</item>
+
+        <item>Babi</item>
+        <item>Babu</item>
+        <item>Buba</item>
+        <item>Boba</item>
+
+        <item>Caca</item>
+        <item>Caci</item>
+        <item>Cacu</item>
+        <item>Cece</item>
+
+        <item>Dada</item>
+        <item>Dadi</item>
+        <item>Dadu</item>
+        <item>Dede</item>
+
+        <item>Ema</item>
+        <item>Emi</item>
+        <item>Emu</item>
+        <item>Emo</item>
+
+        <item>Fafa</item>
+        <item>Fafi</item>
+        <item>Fafu</item>
+        <item>Fafe</item>
+
+        <item>Gaga</item>
+        <item>Gagi</item>
+        <item>Gagu</item>
+        <item>Gage</item>
+
+        <item>Haha</item>
+        <item>Hihi</item>
+        <item>Huhu</item>
+        <item>Hehe</item>
+
+        <item>Iyaa</item>
+        <item>Iyii</item>
+        <item>Iyuu</item>
+        <item>Iyee</item>
+
+        <item>Jaja</item>
+        <item>Jiji</item>
+        <item>Juju</item>
+        <item>Jeje</item>
 
     </string-array>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
