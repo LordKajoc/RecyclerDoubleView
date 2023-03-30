@@ -2,68 +2,67 @@
     <string name="app_name">RecyclerView</string>
 
     <string-array name="data_abjad">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
+        <item>A</item><item>B</item><item>C</item><item>D</item>
+        <item>E</item><item>F</item><item>G</item><item>H</item>
+        <item>I</item><item>J</item><item>K</item><item>L</item>
+        <item>M</item><item>N</item><item>O</item><item>P</item>
+        <item>Q</item><item>R</item><item>S</item><item>T</item>
+        <item>U</item><item>V</item><item>W</item><item>X</item>
+        <item>Y</item><item>Z</item>
     </string-array>
 
     <string-array name="Huruf">
-        <item>Aka</item>
-        <item>Aki</item>
-        <item>Aku</item>
-        <item>Ake</item>
+        <item>Aka</item><item>Aki</item><item>Aku</item><item>Ake</item>
 
-        <item>Babi</item>
-        <item>Babu</item>
-        <item>Buba</item>
-        <item>Boba</item>
+        <item>Babi</item><item>Babu</item><item>Buba</item><item>Boba</item>
 
-        <item>Caca</item>
-        <item>Caci</item>
-        <item>Cacu</item>
-        <item>Cece</item>
+        <item>Caca</item><item>Caci</item><item>Cacu</item><item>Cece</item>
 
-        <item>Dada</item>
-        <item>Dadi</item>
-        <item>Dadu</item>
-        <item>Dede</item>
+        <item>Dada</item><item>Dadi</item><item>Dadu</item><item>Dede</item>
 
-        <item>Ema</item>
-        <item>Emi</item>
-        <item>Emu</item>
-        <item>Emo</item>
+        <item>Ema</item><item>Emi</item><item>Emu</item><item>Emo</item>
 
-        <item>Fafa</item>
-        <item>Fafi</item>
-        <item>Fafu</item>
-        <item>Fafe</item>
+        <item>Fafa</item><item>Fafi</item><item>Fafu</item><item>Fafe</item>
 
-        <item>Gaga</item>
-        <item>Gagi</item>
-        <item>Gagu</item>
-        <item>Gage</item>
+        <item>Gaga</item><item>Gagi</item><item>Gagu</item><item>Gage</item>
 
-        <item>Haha</item>
-        <item>Hihi</item>
-        <item>Huhu</item>
-        <item>Hehe</item>
+        <item>Haha</item><item>Hihi</item><item>Huhu</item><item>Hehe</item>
 
-        <item>Iyaa</item>
-        <item>Iyii</item>
-        <item>Iyuu</item>
-        <item>Iyee</item>
+        <item>Iyaa</item><item>Iyii</item><item>Iyuu</item><item>Iyee</item>
 
-        <item>Jaja</item>
-        <item>Jiji</item>
-        <item>Juju</item>
-        <item>Jeje</item>
+        <item>Jaja</item><item>Jiji</item><item>Juju</item><item>Jeje</item>
+
+        <item>Kaka</item><item>Kiki</item><item>Kuku</item><item>Keke</item>
+
+        <item>Lala</item><item>Lili</item><item>Lulu</item><item>Lele</item>
+
+        <item>Mama</item><item>Mimi</item><item>Mumu</item><item>Meme</item>
+
+        <item>Nana</item><item>Nini</item><item>Nunu</item><item>Nene</item>
+
+        <item>Oma</item><item>Omi</item><item>Omu</item><item>Ome</item>
+
+        <item>Papa</item><item>Pipi</item><item>Pupu</item><item>Pepe</item>
+
+        <item>Qaqa</item><item>Qiqi</item><item>Ququ</item><item>Qeqe</item>
+
+        <item>Rara</item><item>Riri</item><item>Ruru</item><item>Rere</item>
+
+        <item>Sasa</item><item>Sisi</item><item>Susu</item><item>Sese</item>
+
+        <item>Tata</item><item>Titi</item><item>Tutu</item><item>Tete</item>
+
+        <item>Uwaw</item><item>Uwiw</item><item>Uwuw</item><item>Uwew</item>
+
+        <item>Vava</item><item>Vivi</item><item>Vuvu</item><item>Veve</item>
+
+        <item>Wawa</item><item>Wiwi</item><item>Wuwu</item><item>Wewe</item>
+
+        <item>Xaxa</item><item>Xixi</item><item>Xuxu</item><item>Xexe</item>
+
+        <item>Yaya</item><item>Yiyi</item><item>Yuyu</item><item>Yeye</item>
+
+        <item>Zaza</item><item>Zizi</item><item>Zuzu</item><item>Zeze</item>
 
     </string-array>
 
