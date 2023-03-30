@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="words">Words</string>
+    <string name="tb_words">Words That Start With </string>
+    <string name="abjad">Abjad</string>
 
     <string-array name="data_abjad">
         <item>A</item><item>B</item><item>C</item><item>D</item>

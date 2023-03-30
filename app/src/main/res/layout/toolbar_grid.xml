@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_toStartOf="@id/iv_iclist"
-            android:text="Words" />
+            android:text="@string/words" />
 
         <ImageView
             android:id="@+id/iv_iclist"
