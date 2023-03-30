@@ -6,16 +6,16 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
-import com.lordkajoc.recyclerview.databinding.ListAbjadBinding
+import com.lordkajoc.recyclerview.databinding.CardviewListItemBinding
 
 class ListAdapterAbjad(private val listAbjad: ArrayList<KumpulanAbjad>) :
     RecyclerView.Adapter<ListAdapterAbjad.ViewHolder>() {
     //Class ViewHolder
-    class ViewHolder(var binding: ListAbjadBinding) : RecyclerView.ViewHolder(binding.root)
+    class ViewHolder(var binding: CardviewListItemBinding) : RecyclerView.ViewHolder(binding.root)
 
     //Membuat holder
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val binding = ListAbjadBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+        val binding = CardviewListItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
         return ViewHolder(binding)
     }
 

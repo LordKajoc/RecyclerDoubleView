@@ -3,16 +3,16 @@ package com.lordkajoc.recyclerview
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.lordkajoc.recyclerview.databinding.ListAbjadBinding
+import com.lordkajoc.recyclerview.databinding.CardviewListItemBinding
 
 class ListAdapterHuruf(private val listHuruf: ArrayList<KumpulanKata>) :
     RecyclerView.Adapter<ListAdapterHuruf.ViewHolder>() {
     //Class ViewHolder
-    class ViewHolder(var binding: ListAbjadBinding) : RecyclerView.ViewHolder(binding.root)
+    class ViewHolder(var binding: CardviewListItemBinding) : RecyclerView.ViewHolder(binding.root)
 
     //Membuat holder
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val binding = ListAbjadBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+        val binding = CardviewListItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
         return ViewHolder(binding)
     }
 
